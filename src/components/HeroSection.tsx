@@ -7,7 +7,7 @@ import PromoSection from "./PromoSection";
 import NewsletterSection from "./NewsletterSection";
 import Footer from "./Footer";
 import HomeSection from "./HomeSection";
-import backgroundImage from "../assets/main-bg.png";
+import backgroundImage from "../assets/bg_final.svg";
 
 const HeroSection: React.FC = () => {
   return (
